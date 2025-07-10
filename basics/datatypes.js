@@ -53,3 +53,10 @@ testing = "naveen";
 testing =true;
 console.log(testing);
 console.log(typeof(testing));
+
+let number=10n;
+
+console.log(typeof(number));
+console.log(number+10n);
+
+console.log("BigInt test");

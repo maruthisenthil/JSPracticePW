@@ -9,7 +9,7 @@ class Product{
 
 // create Object of Product using new Keyword: 
 // const.. will be called when you create the object
-
+console.log(typeof(Product));
 let p1 = new Product('Macbook',1000);
 console.log(p1.name);
 console.log(p1.price);

@@ -4,6 +4,7 @@ let user = {
     name: 'senthil',
     city: 'NY'
 }
+console.log(typeof(user));
 
 console.log(user);
 // like final keyword in java
